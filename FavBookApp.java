@@ -72,7 +72,7 @@ public class FavBookApp {
 				i++;  //this i is for book Number
 			}
 		}
-		System.out.println("Total Number of Books Added:"+(i+1));
+		System.out.println("Total Number of Books Added:"+(i-1));
 		System.out.println("=============================");
 	}
 
